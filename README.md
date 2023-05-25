@@ -1,8 +1,8 @@
 # 🕒 Calculadora de Tempo
 
-Bem-vindo à **Calculadora de Tempo**, uma incrível aplicação para calcular o tempo entre horários de entrada e saída! ⏰✨
+Bem-vindo à **Calculadora de Tempo**, uma aplicação simples para calcular o tempo entre horários de entrada e saída! ⏰✨
 
-![image](https://github.com/LeonardoDonatoNunes/timeCalcApp/assets/56056001/975b329d-3225-4767-b31a-8899f32eef0d)
+![image](https://github.com/LeonardoDonatoNunes/timeCalcApp/assets/56056001/5f1eaa40-399a-4974-93f1-37d40369beee)
 
 ## 📂 Estrutura do Projeto
 
@@ -16,7 +16,7 @@ Bem-vindo à **Calculadora de Tempo**, uma incrível aplicação para calcular o
 
 ## ▶️ Como Usar
 
-1. Acesse a aplicação [Calculadora de Tempo](https://leonardodonatonunes.github.io/timeCalcApp/).
+1. Acesse a aplicação <a href="https://leonardodonatonunes.github.io/timeCalcApp/" target="_blank">Calculadora de Tempo</a>.
 2. 💫 Digite os horários de entrada e saída nos campos fornecidos.
 3. 🧙‍♀️ Clique no botão "Calcular" e veja o tempo entre os horários aparecer.
 4. Se precisar adicionar mais pares de campos de entrada e saída, utilize o botão "Adicionar"! ✨🔢

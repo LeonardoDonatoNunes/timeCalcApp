@@ -1,6 +1,6 @@
 # 🕒 Calculadora de Tempo
 
-Bem-vindo à **Calculadora de Tempo**, uma incrível aplicação para calcular o tempo entre horários de entrada e saída! ⏰✨
+Bem-vindo à **Calculadora de Tempo**, uma aplicação simples para calcular o tempo entre horários de entrada e saída! ⏰✨
 
 ![image](https://github.com/LeonardoDonatoNunes/timeCalcApp/assets/56056001/5f1eaa40-399a-4974-93f1-37d40369beee)
 

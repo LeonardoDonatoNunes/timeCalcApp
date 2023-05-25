@@ -55,19 +55,6 @@ function calcularTempo() {
     resultado.innerHTML = "Tempo total: " + horas + " horas e " + minutos + " minutos.";
 }
 
-function calcularDiferenca(entrada, saida) {
-    var tempoInicial = new Date("2000-01-01 " + entrada);
-    var tempoFinal = new Date("2000-01-01 " + saida);
-
-    var diferenca = tempoFinal - tempoInicial;
-
-    if (diferenca < 0) {
-        diferenca += 24 * 60 * 60 * 1000;  // adiciona 24 horas em milissegundos
-    }
-
-    return diferenca;
-}
-
 function atualizarPagina() {
     location.reload();
 }

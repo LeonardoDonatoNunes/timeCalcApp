@@ -48,8 +48,7 @@ h1 {
     font-size: 16px;
 }
 
-.adicionar-btn {
-    display: block;
+.btn {
     margin: 20px auto;
     padding: 10px;
     background-color: #4caf50;
@@ -58,6 +57,17 @@ h1 {
     border-radius: 3px;
     font-size: 16px;
     cursor: pointer;
+}
+
+.adicionar-btn {
+    display: block;
+
+}
+
+.refresh-btn {
+    font-size: 14px;
+    margin: none;
+    padding: 8px;
 }
 
 .adicionar-btn i {

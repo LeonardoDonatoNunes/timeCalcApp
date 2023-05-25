@@ -3,7 +3,7 @@
 <head>
     <title>Calculadora de Tempo</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
@@ -32,15 +32,18 @@
             </table>
         </div>
         
-        <button class="adicionar-btn" onclick="adicionarCampos()"><i class="fas fa-plus"></i> Adicionar novo campo</button>
+        <button class="btn adicionar-btn" onclick="adicionarCampos()"><i class="fas fa-plus"></i> Adicionar novo campo</button>
         
         <div class="form-group">
-            <button  class="adicionar-btn" onclick="calcularTempo()">Calcular tempo</button>
+            <button  class="btn adicionar-btn" onclick="calcularTempo()">Calcular tempo</button>
         </div>
         
         <div id="resultado"></div>
+
+        <button class="btn refresh-btn"><i class="fas fa-sync-alt" onclick="atualizarPagina()"></i></button>
+
     </div>
     
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>

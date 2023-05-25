@@ -68,3 +68,6 @@ function calcularDiferenca(entrada, saida) {
     return diferenca;
 }
 
+function atualizarPagina() {
+    location.reload();
+}

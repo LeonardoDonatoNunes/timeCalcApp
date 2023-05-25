@@ -16,7 +16,7 @@ Bem-vindo à **Calculadora de Tempo**, uma aplicação simples para calcular o t
 
 ## ▶️ Como Usar
 
-1. Acesse a aplicação [Calculadora de Tempo](https://leonardodonatonunes.github.io/timeCalcApp/).
+1. Acesse a aplicação [Calculadora de Tempo](https://leonardodonatonunes.github.io/timeCalcApp/){:target="_blank"}.
 2. 💫 Digite os horários de entrada e saída nos campos fornecidos.
 3. 🧙‍♀️ Clique no botão "Calcular" e veja o tempo entre os horários aparecer.
 4. Se precisar adicionar mais pares de campos de entrada e saída, utilize o botão "Adicionar"! ✨🔢

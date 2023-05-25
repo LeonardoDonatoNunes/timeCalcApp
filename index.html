@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculadora de Tempo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Tempo</h1>
+        
+        <div id="campos-dinamicos">
+            <table id="horarios">
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label for="entrada-1">Entrada 1:</label>
+                            <input type="time" name="entrada[]" class="entrada">
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <label for="saida-1">Saída 1:</label>
+                            <input type="time" name="saida[]" class="saida">
+                        </div>
+                    </td>
+                    <td>
+                        <button class="remover-btn" onclick="removerCampos(this)"><i class="fas fa-trash"></i></button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        
+        <button class="adicionar-btn" onclick="adicionarCampos()"><i class="fas fa-plus"></i> Adicionar novo campo</button>
+        
+        <div class="form-group">
+            <button  class="adicionar-btn" onclick="calcularTempo()">Calcular tempo</button>
+        </div>
+        
+        <div id="resultado"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

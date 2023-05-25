@@ -2,7 +2,7 @@
 
 Bem-vindo à **Calculadora de Tempo**, uma incrível aplicação para calcular o tempo entre horários de entrada e saída! ⏰✨
 
-![image](https://github.com/LeonardoDonatoNunes/timeCalcApp/assets/56056001/975b329d-3225-4767-b31a-8899f32eef0d)
+![image](https://github.com/LeonardoDonatoNunes/timeCalcApp/assets/56056001/5f1eaa40-399a-4974-93f1-37d40369beee)
 
 ## 📂 Estrutura do Projeto
 

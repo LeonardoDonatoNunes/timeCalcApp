@@ -6,13 +6,13 @@ function adicionarCampos() {
     novaLinha.innerHTML = `
         <td>
             <div class="form-group">
-                <label for="entrada">Entrada</label>
+                <label for="entrada">Início</label>
                 <input type="time" name="entrada[]" class="entrada">
             </div>
         </td>
         <td>
             <div class="form-group">
-                <label for="saida">Saída</label>
+                <label for="saida">Fim</label>
                 <input type="time" name="saida[]" class="saida">
             </div>
         </td>
